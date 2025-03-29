@@ -1,0 +1,10 @@
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\bin\Debug\lb2.exe.config
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\bin\Debug\lb2.exe
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\bin\Debug\lb2.pdb
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\obj\Debug\lb2.csproj.AssemblyReference.cache
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\obj\Debug\lb2.Form1.resources
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\obj\Debug\lb2.Properties.Resources.resources
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\obj\Debug\lb2.csproj.GenerateResource.cache
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\obj\Debug\lb2.csproj.CoreCompileInputs.cache
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\obj\Debug\lb2.exe
+E:\bsuir\2 курс\4 семестр\ТИ\лб2\lb2\obj\Debug\lb2.pdb
